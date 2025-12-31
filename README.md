@@ -7,7 +7,7 @@ Perfect for splash screens, festive launches, greeting apps, or learning advance
 <h3>✨ Features</h3>
 <hr>
 ⏱ Animated countdown (10 → 1)<br/>
-🎆 Realistic fireworks using CAEmitterLayer<br/>
+🎆 Realistic fireworks<br/>
 Radial bursts<br/>
 Glowing cores<br/>
 Long spark trails<br/>
